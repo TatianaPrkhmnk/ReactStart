@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactStart/static/css/main.e6c13ad2.css",
+    "main.js": "/ReactStart/static/js/main.ba050e84.js",
+    "index.html": "/ReactStart/index.html",
+    "main.e6c13ad2.css.map": "/ReactStart/static/css/main.e6c13ad2.css.map",
+    "main.ba050e84.js.map": "/ReactStart/static/js/main.ba050e84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ba050e84.js"
+  ]
+}
